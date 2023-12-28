@@ -1,0 +1,30 @@
+{
+  "kosuke": {
+    "userName": "kosuke",
+    "passwd": "kosuke"
+  },
+  "taro": {
+    "userName": "taro",
+    "passwd": "taro"
+  },
+  "sato": {
+    "userName": "sato",
+    "passwd": "sato"
+  },
+  "nagu": {
+    "userName": "nagu",
+    "passwd": "tk211"
+  },
+  "なぐ": {
+    "userName": "なぐ",
+    "passwd": "tktk"
+  },
+  "kuro": {
+    "userName": "kuro",
+    "passwd": "kuro"
+  },
+  "test": {
+    "userName": "test",
+    "passwd": "test"
+  }
+}
