@@ -11,3 +11,4 @@ insert_final_newline = true
 [*.md]
 trim_trailing_whitespace = false
 
+# BUG: https://github.com/editorconfig/editorconfig-vscode/issues/153
